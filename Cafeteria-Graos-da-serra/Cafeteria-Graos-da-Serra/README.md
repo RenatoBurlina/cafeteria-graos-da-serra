@@ -1,2 +1,2 @@
-# Cafeteria-Gr-os-da-Serra
-Primeiro Projeto // Finalizado dia 26/12
+# Cafeteria-Graos-da-Serra
+Primeiro Projeto // Finalizado 
